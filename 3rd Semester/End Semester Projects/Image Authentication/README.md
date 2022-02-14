@@ -5,3 +5,6 @@ This is the foundational algorithm and mechanism to how blockchain works
 Image hashing is done for two reasons:
 1.	Digital Art/NFT verification using image hashing
 2.	New Captcha method to prevent Malicious Auto-Bots using picture check
+
+
+Read the Report for indepth explanation of the project
