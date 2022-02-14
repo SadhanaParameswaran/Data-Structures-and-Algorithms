@@ -2,3 +2,5 @@ In the world of computer science, data structure refers to the format that conta
 Syntax checker is a basic compiler designed to check certain syntaxes in a java code. It makes ones life easier by helping them debug their syntaxes if they aren’t sure of the right syntax.
 In our project, we plan to make it easier for the user to check their syntaxes by asking them to enter a syntax and debugging it for them and displaying an appropriate message. Parenthesis checking, for loop checking, while loop checking, do while loop checking, if statement checking, keyword checking, datatype checking and identifier checking have been done using various data structures such as arrays, linked list and stacks in Eclipse IDE. We have used the java.util.* package to include all the necessary packages required for this program.
 In this program, one will be able to identify if they have made any mistakes or errors in a syntax of their code.
+
+This project is aimed to help early programmers to validate the programming syntax for different programming constructs such as while loop, for loop, do while loop, if statement, keyword, datatype and identifier.
